@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a simple project I worked on for my Full Stack Web Course. The purpose of this project was to show a simple way to make use of MongoDB. The website for this project is live on heroku, which you can check out by [clicking here.]()
+This is a simple project I worked on for my Full Stack Web Course. The purpose of this project was to show a simple way to make use of MongoDB. The website for this project is live on heroku, which you can check out by [clicking here.](https://morning-temple-60119.herokuapp.com/?id=5f768b0a8a32e7001761b5c3)
 
 ## Installation
 
